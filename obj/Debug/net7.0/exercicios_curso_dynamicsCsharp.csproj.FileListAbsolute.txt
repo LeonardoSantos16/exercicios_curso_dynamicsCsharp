@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Documents\exercicios_curso_dynamicsCsharp\bin\Debug\net7.0\exercicios_curso_dynamicsCsharp.exe
+C:\Users\Leonardo\Documents\exercicios_curso_dynamicsCsharp\bin\Debug\net7.0\exercicios_curso_dynamicsCsharp.deps.json
+C:\Users\Leonardo\Documents\exercicios_curso_dynamicsCsharp\bin\Debug\net7.0\exercicios_curso_dynamicsCsharp.runtimeconfig.json
+C:\Users\Leonardo\Documents\exercicios_curso_dynamicsCsharp\bin\Debug\net7.0\exercicios_curso_dynamicsCsharp.dll
+C:\Users\Leonardo\Documents\exercicios_curso_dynamicsCsharp\bin\Debug\net7.0\exercicios_curso_dynamicsCsharp.pdb
+C:\Users\Leonardo\Documents\exercicios_curso_dynamicsCsharp\obj\Debug\net7.0\exercicios_curso_dynamicsCsharp.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Documents\exercicios_curso_dynamicsCsharp\obj\Debug\net7.0\exercicios_curso_dynamicsCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Documents\exercicios_curso_dynamicsCsharp\obj\Debug\net7.0\exercicios_curso_dynamicsCsharp.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Documents\exercicios_curso_dynamicsCsharp\obj\Debug\net7.0\exercicios_curso_dynamicsCsharp.AssemblyInfo.cs
+C:\Users\Leonardo\Documents\exercicios_curso_dynamicsCsharp\obj\Debug\net7.0\exercicios_curso_dynamicsCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\exercicios_curso_dynamicsCsharp\obj\Debug\net7.0\exercicios_curso_dynamicsCsharp.dll
+C:\Users\Leonardo\Documents\exercicios_curso_dynamicsCsharp\obj\Debug\net7.0\refint\exercicios_curso_dynamicsCsharp.dll
+C:\Users\Leonardo\Documents\exercicios_curso_dynamicsCsharp\obj\Debug\net7.0\exercicios_curso_dynamicsCsharp.pdb
+C:\Users\Leonardo\Documents\exercicios_curso_dynamicsCsharp\obj\Debug\net7.0\exercicios_curso_dynamicsCsharp.genruntimeconfig.cache
+C:\Users\Leonardo\Documents\exercicios_curso_dynamicsCsharp\obj\Debug\net7.0\ref\exercicios_curso_dynamicsCsharp.dll
